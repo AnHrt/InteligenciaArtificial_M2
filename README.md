@@ -1,4 +1,5 @@
-# Inteligenci Artificial - Módulo 2
+# Inteligencia Artificial - Módulo 2
+###### > María de los Angeles Arista Huerta - A01369984
 Entrega del módulo de **Deep Learning** en la concentración de *Inteligencia Artificial avanzada para la ciencia de datos*
 
 ### Entrega M2 Portafolio Implementación: ***Implementación de un modelo de deep learning.***
