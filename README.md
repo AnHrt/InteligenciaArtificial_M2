@@ -33,9 +33,9 @@ La notebook ***A01369984_M2_Pred.ipynb*** contiene el codigo con las prediccione
  * val acc:   *0.63*
  * test acc:  *0.5*
 > Modelo final vgg16
- * train acc: ** 
- * val acc:   **
- * test acc:  **
+ * train acc: *0.80* 
+ * val acc:   *0.87*
+ * test acc:  *0.97*
 
 En el modelo intermedio se implemento transfer learning de vgg16.
 
