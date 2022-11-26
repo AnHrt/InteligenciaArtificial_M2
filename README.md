@@ -13,9 +13,23 @@ El dataset utilizado para el entrenamiento y validación del modelo se obtuvo de
 El dataset para las pruebas del modelo se encuentra en el siguiente link a drive:
 > https://drive.google.com/drive/folders/1BAFNUikXyD0ZbhXLAf6RD9yRufo3SpfQ?usp=share_link
 
-
 La notebook ***A01369984_DP_M1.ipynb*** contiene el primer modelo empleado de una red convolusional.
 
 La notebook ***A01369984_DP_M2.ipynb*** contiene el modelo empleado de transfer learning (VGG16).
 
 La notebook ***A01369984_M2_Pred.ipynb*** contiene el codigo con las predicciones realizadas.
+
+---
+### Modelos empleados
+> Primer modelo
+ * train acc: *0.34* 
+ * val acc:   *0.36*
+ * test acc:  *0.27*
+> Modelo intermedio con vgg16
+ * train acc: *0.74* 
+ * val acc:   *0.63*
+ * test acc:  *0.5*
+> Modelo final vgg16
+ * train acc: ** 
+ * val acc:   **
+ * test acc:  **
